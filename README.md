@@ -1,0 +1,13 @@
+- Abram o arquivo project_twitter.csv e
+- construam um classificador de sentimentos, que vai detectar quão positivo ou negativo é cada tuíte analisado. 
+- Escrevam um script para gerar um arquivo csv chamado resulting_data.csv, que devera conter 
+  - Number of Retweets, 
+  - Number of Replies, 
+  - Positive Score, 
+  - Negative Score e 
+  - Net Score. 
+- O arquivo deverá ter esse cabeçalho nesta ordem. 
+- A equipe irá abrir este arquivo em qualquer programa (Excel, Google Sheets, Numbers, R, Python) e 
+- deverá produzir um gráfico (a escolha do tipo de gráfico apropriado será parte da avaliação) do Net Score (eixo x) vs Number of Retweets (eixo y).
+- punctuation_chars = ["'", '"', ",", ".", "!", ":", ";", '#', '@']
+
